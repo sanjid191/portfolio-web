@@ -1091,6 +1091,30 @@ transition: all 1s;
 }
 
 
+/* Style for the loader */
+.loader {
+  border: 6px solid rgba(0, 0, 0, 0.1);
+  border-top: 6px solid #2777c2;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  animation: spin 1s linear infinite; /* Apply rotation animation */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Animation for the loader */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+
+
+
 
 
 
