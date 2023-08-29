@@ -561,6 +561,13 @@ section {
   padding-top: 40px;
 }
 
+
+.portfolio-info a:hover{
+  color: red;
+  font-size: larger;
+
+}
+
 .portfolio-details .portfolio-details-slider img {
   height: 400px;
   width: 500;
