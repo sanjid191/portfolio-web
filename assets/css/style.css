@@ -109,17 +109,17 @@ h1{
 }
 
 #header .profile .social-links a {
-  font-size: 18px;
+  font-size: 22px;
   display: inline-block;
   background: #212431;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
-  border-radius: 50%;
+  border-radius: 60%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 38px;
+  height: 38px;
   transition: 0.3s;
 }
 
@@ -244,9 +244,6 @@ h1{
   width: 100%;
   height: 97vh;
   background: url("../img/Background.png") top center;
-  /*
-  background: url("../img/hero-bg.jpg") top center;
-  */
   background-size: cover;
 }
 
@@ -564,7 +561,7 @@ section {
 
 .portfolio-info a:hover{
   color: red;
-  font-size: larger;
+  
 
 }
 
@@ -572,6 +569,12 @@ section {
   height: 400px;
   width: 500;
   width: 90%;
+  
+}
+
+
+.portfolio-details a:hover {
+  color: red;
   
 }
 
