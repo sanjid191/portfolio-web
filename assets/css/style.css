@@ -495,7 +495,7 @@ section {
 
   padding: 13px 13px;
   height: 380px;
-  width: 380px;
+  width: 100%;
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
