@@ -1121,6 +1121,17 @@ transition: all 1s;
   100% { transform: rotate(360deg); }
 }
 
+marquee{
+  font-size: 16px;
+  color: #000000;
+  background: #b2c1d5;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+  border-radius: 50px;
+
+}
 
 
 
