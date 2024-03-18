@@ -281,7 +281,7 @@ h1{
 }
 
 #hero p span {
-  color: red;
+  color: rgb(47, 0, 255);
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
